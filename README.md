@@ -13,3 +13,6 @@ as well using matplotlib's pyplot.
 Having [Anaconda](https://docs.anaconda.com/) installed and using a virtual environment is highly recommended as one's required packages are easily contained and organized.
 For the purposes of this project, numpy will only slightly be required. To install numpy, try `pip install numpy`. For pandas, refer to [this](https://anaconda.org/anaconda/pandas).
 For Scikit-Learn, [this](https://scikit-learn.org/stable/install.html). And finally, for matplotlib, [this](https://anaconda.org/anaconda/matplotlib). 
+
+![](Figure_1.png)
+![](Figure_2.png)
